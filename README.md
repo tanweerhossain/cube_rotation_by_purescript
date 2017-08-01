@@ -1,6 +1,5 @@
 # PureScript 3D Cube
 
-**[Try it out here](http://georgevarghese185.github.io/PureScript-3D-Cube)**
 
 This was my attempt at learning the basics of PureScript and functional programming for the first time by making a 3D rotating cube in the browser that the user can interact with.
 
@@ -20,7 +19,7 @@ The main directories here are
      * **Matrices.purs** contains some data structures and functions to deal with the transformation matrix (`matrix3d`) and rotation vector (`rotate3d`)  in CSS including converting them between a Matrix format and String form for the CSS `transform` property.
 2. **docs/**: Contains the output of the code to be viewed in a browser.
     
-     * **docs/index.html** can be accessed from the [GitHub pages link](http://georgevarghese185.github.io/PureScript-3D-Cube) of this project.
+     * **docs/index.html** can be accessed from the [GitHub pages link](https://github.com/tanweerhossain/cube_rotation_by_purescript) of this project.
      
      * **docs/js/cube.js** contains the compiled js file obtained by compiling the PureScript code in **src/**.
      
